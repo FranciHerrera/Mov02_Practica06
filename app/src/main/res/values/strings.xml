@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mov2_Practica06</string>
+    <string name="take_photo">Tomar foto</string>
+    <string name="start_capture">Iniciar captura</string>
+    <string name="stop_capture">Parar captura</string>
+    <string name="foto">Seleccionar foto</string>
+    <string name="video">Seleccionar video</string>
+</resources>
