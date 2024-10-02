@@ -32,14 +32,13 @@
 
   <ImageView
       android:id="@+id/selectedImageView"
-      android:layout_width="300dp"
-      android:layout_height="300dp"
+      android:layout_width="393dp"
+      android:layout_height="401dp"
       app:layout_constraintBottom_toBottomOf="parent"
       app:layout_constraintEnd_toEndOf="parent"
-      app:layout_constraintHorizontal_bias="0.495"
       app:layout_constraintStart_toStartOf="parent"
       app:layout_constraintTop_toTopOf="@+id/barraFoto"
-      app:layout_constraintVertical_bias="0.626" />
+      app:layout_constraintVertical_bias="0.684" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
